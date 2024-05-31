@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "id": "c1e961a4-c96c-41d6-b252-174705d548a4",
+      "title": "asdasd",
+      "content": "asdasdasd"
+    },
+    {
+      "id": "ffede523-f49b-49f7-9fb6-924bb56f8446",
+      "title": "aaa",
+      "content": "aaaa"
+    },
+    {
+      "id": "115c9140-477a-438b-8eb1-1149bed3cb7f",
+      "title": "aaaaa",
+      "content": ""
+    },
+    {
+      "id": "ce702dbc-435a-40e3-8988-bf8b77337456",
+      "title": "",
+      "content": "aaaaaa"
+    }
+  ]
+}
